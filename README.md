@@ -27,7 +27,8 @@ Na versão mobile funciona um pouco diferente aqui você vai poder procurar devs
 * acesse a pasta ```mobile``` e digite ```yarn start```para iniciar o projeto mobile ( lembrando que  você precisa esta com o emulador aberto caso seja android para o projeto abrir, no caso do ios o emulador abre automaticamente)
 
 # Tecnologias usadas
-* Node.js
-* React
-* React Native
-* Expo
+* ✔ Node.js
+* ✔ React
+* ✔ React Native
+* ✔ Expo
+ 
