@@ -31,4 +31,5 @@ Na versão mobile funciona um pouco diferente aqui você vai poder procurar devs
 * ✔ React
 * ✔ React Native
 * ✔ Expo
+* ✔ MongoDB
  
